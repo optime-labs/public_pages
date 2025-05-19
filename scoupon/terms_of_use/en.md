@@ -1,4 +1,4 @@
-# Terms and Conditions
+
 
 Effective Date: February 8, 2025
 
