@@ -1,6 +1,6 @@
 
 
-Effective Date: February 8, 2025
+Effective Date: February 28, 2025
 
 These Terms and Conditions (“Terms”) govern your use of the Scoupon mobile application (“Scoupon”). By accessing or using the Scoupon app, you agree to comply with these Terms. If you do not agree to these Terms, please do not use the app.
 
