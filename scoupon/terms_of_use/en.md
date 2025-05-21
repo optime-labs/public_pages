@@ -1,58 +1,111 @@
+**Effective Date:** June 1, 2025  
+**Last Updated:** June 1, 2025
+
+Welcome to **Scoupon**, a mobile application operated by **Optime Labs LLC** ("we", "our", or "us"). These Terms of Use ("Terms") govern your use of the Scoupon mobile application (the "App"). By accessing or using the App, you agree to be bound by these Terms.
+
+If you do not agree to these Terms, please do not use the App.
 
 
-Effective Date: February 28, 2025
+## 1. Eligibility
 
-These Terms and Conditions (“Terms”) govern your use of the Scoupon mobile application (“Scoupon”). By accessing or using the Scoupon app, you agree to comply with these Terms. If you do not agree to these Terms, please do not use the app.
+You must be at least 13 years old to use this App. By using the App, you represent that you are at least 13 years old and that you agree to comply with these Terms.
 
-## 1. License to Use the App
 
-We grant you a limited, non-exclusive, non-transferable license to use the Scoupon app for personal and non-commercial purposes, subject to the Terms outlined below.
+## 2. App Description
 
-## 2. User Responsibilities
+Scoupon allows you to:
 
-You are responsible for ensuring that:
-- You have the legal right to upload and use any coupon images you store in the app.
-- You do not use the app for any illegal or unauthorized purposes.
+- Capture or upload images of coupons from your device.
+- Extract and save date-related information (start and expiration dates).
+- Receive reminders about those dates.
 
-## 3. Permissions
+**The App does not require a login or account**, and all data is stored **locally** on your device. The app does **not** upload, sync, or share your coupon data externally.
 
-To use certain features of the app, we request the following permissions:
-- **Camera**: To capture coupon images.
-- **Photo Library/Gallery**: To pick coupon images from your photo library.
-- **Notifications**: To send notifications for coupon expiry reminders.
 
-By granting these permissions, you allow us to provide you with the services that Scoupon offers.
+## 3. User Content
 
-## 4. User Data
+Any coupon images you upload or capture through the App remain on your device. You are solely responsible for the content you choose to input into the App.
 
-Scoupon does not collect any personal information about you. The app stores coupon images and expiry dates locally on your device. We do not share your data with third parties.
+You agree that:
 
-## 5. Disclaimer
+- You own or have permission to use the content you upload.
+- You will not upload or use content that is illegal, offensive, or violates the rights of others.
+- We are not liable for any issues arising from the content you provide or store locally.
 
-Scoupon is provided on an “as-is” and “as-available” basis. We make no warranties or representations about the reliability, accuracy, or availability of the app or its features. We are not responsible for any errors, disruptions, or losses that may occur while using the app.
 
-## 6. Notifications
+## 4. Privacy
 
-Scoupon sends notifications to remind users of coupon expiry dates. You can manage notification preferences in your device’s settings.
+We respect your privacy. Please refer to our [Privacy Policy](#) for information on how we handle your data. The App does not collect personal information or transfer data externally except when feedback is voluntarily submitted.
 
-## 7. Termination
 
-We reserve the right to suspend or terminate your access to the Scoupon app at our discretion, without notice, if we believe you have violated these Terms.
+## 5. Intellectual Property
+
+All intellectual property rights in the App, including but not limited to the software, design, branding, and content (excluding user-uploaded images), are owned by **Optime Labs LLC** or its licensors.
+
+You may not:
+
+- Reverse-engineer, decompile, or disassemble the App.
+- Use the App for commercial resale or redistribution.
+- Use our trademarks or brand elements without written permission.
+
+
+## 6. App Availability and Support
+
+We strive to keep the App functional and available. However, we do not guarantee that the App will always be available, secure, or free from errors.
+
+We reserve the right to:
+
+- Modify, update, or discontinue the App at any time without notice.
+- Limit access to certain features or restrict availability based on location or device.
+
+
+## 7. Disclaimers
+
+The App is provided “as is” and “as available” without warranties of any kind, either express or implied. We disclaim all warranties, including:
+
+- That the App will function uninterrupted or error-free.
+- That coupon data or date recognition will be accurate or complete.
+- That reminders will be delivered precisely as scheduled.
+
+You use the App at your own risk.
+
 
 ## 8. Limitation of Liability
 
-In no event shall Scoupon, its developers, or affiliates be liable for any damages, losses, or claims arising out of your use of the app, including but not limited to data loss, inconvenience, or financial losses related to expired coupons.
+To the fullest extent permitted by law, Optime Labs LLC and its affiliates will not be liable for:
 
-## 9. Changes to These Terms
+- Any indirect, incidental, special, consequential, or punitive damages.
+- Loss of data, revenue, profits, or goodwill.
+- Any issues arising from your reliance on the App or its outputs.
 
-We may update or modify these Terms at any time. You will be notified of any significant changes to the Terms via the app. Please review these Terms periodically.
+Some jurisdictions do not allow limitations of liability, so certain limitations may not apply to you.
+
+
+## 9. Termination
+
+We may suspend or terminate your access to the App if we determine that you have violated these Terms or used the App in an unlawful or abusive manner. You may also stop using the App at any time.
+
 
 ## 10. Governing Law
 
-These Terms are governed by the laws of the jurisdiction in which Scoupon operates. Any disputes arising out of or in connection with these Terms will be resolved in accordance with applicable law.
+These Terms are governed by the laws of the jurisdictions where the app is made available, including but not limited to:
 
-## 11. Contact Us
+- **United States** (State of Delaware)
+- **United Kingdom**
+- **Ireland**
+- **Australia**
+- **New Zealand**
+- **India**
 
-If you have any questions or concerns about these Terms and Conditions, please contact us at:
+Disputes will be subject to the exclusive jurisdiction of the courts in your place of residence.
 
-**Email**: apps@optime-labs.com
+
+## 11. Updates to These Terms
+
+We may modify these Terms at any time. Updated versions will be posted with a new "Last Updated" date. Continued use of the App after such updates constitutes acceptance of the revised Terms.
+
+
+## 12. Contact Us
+
+For questions or concerns regarding these Terms, please contact us:  
+📧 **apps@optime-labs.com**
