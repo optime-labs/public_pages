@@ -90,7 +90,7 @@ We may suspend or terminate your access to the App if we determine that you have
 
 These Terms are governed by the laws of the jurisdictions where the app is made available, including but not limited to:
 
-- **United States** (State of Delaware)
+- **United States** 
 - **United Kingdom**
 - **Ireland**
 - **Australia**
