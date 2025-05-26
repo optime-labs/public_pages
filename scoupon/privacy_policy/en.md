@@ -1,5 +1,5 @@
-**Effective Date:** June 1, 2025  
-**Last Updated:** June 1, 2025
+**Effective Date:** May 26, 2025  
+**Last Updated:** May 26, 2025
 
 At **Optime Labs LLC** ("we," "our," or "us"), your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our mobile application, **Scoupon** (the “App”).
 
