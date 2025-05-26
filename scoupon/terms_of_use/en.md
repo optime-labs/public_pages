@@ -1,5 +1,5 @@
-**Effective Date:** June 1, 2025  
-**Last Updated:** June 1, 2025
+**Effective Date:** May 26, 2025 
+**Last Updated:** May 26, 2025
 
 Welcome to **Scoupon**, a mobile application operated by **Optime Labs LLC** ("we", "our", or "us"). These Terms of Use ("Terms") govern your use of the Scoupon mobile application (the "App"). By accessing or using the App, you agree to be bound by these Terms.
 
