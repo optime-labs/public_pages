@@ -5,13 +5,11 @@ Welcome to **SnapCue**, a mobile application operated by **Optime Labs LLC** ("w
 
 If you do not agree to these Terms, please do not use the App.
 
----
 
 ## 1. Eligibility
 
 You must be at least 13 years old to use this App. By using the App, you represent that you are at least 13 years old and that you agree to comply with these Terms.
 
----
 
 ## 2. App Description
 
@@ -23,7 +21,6 @@ SnapCue allows you to:
 
 **The App does not require a login or account**, and all data is stored **locally** on your device. The app does **not** upload, sync, or share your content externally.
 
----
 
 ## 3. User Content
 
@@ -35,13 +32,11 @@ You agree that:
 - You will not upload content that is illegal, offensive, or violates third-party rights.
 - We are not responsible for the content you store within the App or any consequences resulting from its use.
 
----
 
 ## 4. Privacy
 
 We respect your privacy. Please refer to our [Privacy Policy](#) for details on how your data is handled. SnapCue does not collect personal information or transmit user data externally, except when feedback is voluntarily submitted.
 
----
 
 ## 5. Intellectual Property
 
@@ -53,7 +48,6 @@ You may not:
 - Use the App for commercial resale or mass distribution.
 - Use SnapCue trademarks or design elements without written permission.
 
----
 
 ## 6. App Availability and Support
 
@@ -64,7 +58,6 @@ We reserve the right to:
 - Modify, update, or discontinue any part of the App at any time.
 - Restrict access to specific features or platforms.
 
----
 
 ## 7. Disclaimers
 
@@ -76,7 +69,6 @@ The App is provided “as is” and “as available” with no warranties, expre
 
 Use the App at your own risk.
 
----
 
 ## 8. Limitation of Liability
 
@@ -88,13 +80,11 @@ To the fullest extent permitted by law, **Optime Labs LLC** and its affiliates a
 
 Some jurisdictions may not allow exclusions of liability; in such cases, limitations will apply only to the extent allowed by local law.
 
----
 
 ## 9. Termination
 
 We reserve the right to suspend or terminate your access if you violate these Terms or use SnapCue in an unlawful, abusive, or harmful manner. You may stop using the App at any time.
 
----
 
 ## 10. Governing Law
 
@@ -109,13 +99,11 @@ These Terms are governed by the applicable laws of jurisdictions where SnapCue i
 
 Legal disputes will be resolved in accordance with the courts of your place of residence.
 
----
 
 ## 11. Updates to These Terms
 
 We may revise these Terms from time to time. If changes are made, we will update the “Last Updated” date. Continued use of SnapCue after any changes indicates your acceptance of the revised Terms.
 
----
 
 ## 12. Contact Us
 
