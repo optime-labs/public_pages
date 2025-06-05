@@ -83,7 +83,6 @@ As part of the EU, Irish users are covered by the **EU General Data Protection R
 
 We do **not** transfer your image or reminder data outside your device. The only exception is when you **voluntarily submit feedback** through our contact channels. Such feedback may be stored and processed in the **United States** in accordance with applicable data protection laws.
 
----
 
 ## 10. Contact Us
 
