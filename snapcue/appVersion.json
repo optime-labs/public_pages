@@ -1,0 +1,10 @@
+{
+  "android": {
+    "latest_version": "1.2.0",
+    "mandatory": true
+  },
+  "ios": {
+    "latest_version": "1.2.0",
+    "mandatory": false
+  }
+}
