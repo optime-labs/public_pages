@@ -1,3 +1,5 @@
+# Terms of Use
+
 **Effective Date:** May 26, 2025  
 **Last Updated:** May 26, 2025
 
