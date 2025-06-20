@@ -1,9 +1,9 @@
-# Privacy Policy
+# Privacy Policy 
 
 **Effective Date:** May 26, 2025  
 **Last Updated:** May 26, 2025
 
-At **Optime Labs LLC** ("we," "our," or "us"), your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our mobile application, **SnapCue** (the “App”).
+_At **Optime Labs LLC** ("we," "our," or "us"), your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and protect your information when you use our mobile application, **SnapCue** (the “App”).
 
 By using SnapCue, you agree to the practices described in this Privacy Policy.
 
